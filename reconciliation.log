@@ -1,0 +1,4 @@
+2026-10-28 21:49:25,953 [INFO]: Ingesting gateway export: C:\Users\Anas\.gemini\antigravity-ide\scratch\financial-reconciliation-engine\gateway_charges.csv
+2026-10-28 21:49:25,967 [INFO]: Ingesting bank ledger: C:\Users\Anas\.gemini\antigravity-ide\scratch\financial-reconciliation-engine\bank_ledger.csv
+2026-10-28 21:49:26,129 [INFO]: Reconciliation completed across 2,015 aggregate records.
+2026-10-28 21:49:28,500 [INFO]: Generated Executive Reconciliation Excel Model: C:\Users\Anas\.gemini\antigravity-ide\scratch\financial-reconciliation-engine\Executive_Reconciliation_Report.xlsx
